@@ -1,0 +1,47 @@
+body {
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #909090;
+}
+
+  a:hover {
+    color: #707070;
+  }
+
+section {
+  padding: 25px 0 25px 0;
+  margin: auto;
+  width: 70%;
+}
+
+  section:not(.first) {
+    border-top: 1px solid white;
+  }
+
+table {
+  margin: auto;
+}
+
+  table td, table th {
+    padding-left: 20px;
+  }
+
+a {
+  text-decoration: none;
+}
+
+  a: {
+    text-decoration: none;
+  }
+
+#main img {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
